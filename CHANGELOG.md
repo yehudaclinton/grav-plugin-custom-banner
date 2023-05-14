@@ -1,3 +1,9 @@
+# v1.1.0
+## 14-05-2023
+
+1. [](#new)
+	* fixed action buttons for mobile (flex column)
+
 # v1.0.16
 ## 31-01-2023
 
